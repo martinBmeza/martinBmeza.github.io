@@ -1,15 +1,18 @@
 title: Martin Bernardo Meza
 logo: /assets/img/logo.png
 description:
-    Tesiste de la carrera Ingeniería de Sonido
-    <br><br>
-    Inteligencia Artificial y Machine Learning
-    <br><br>
-    Python Developer
-    <br><br>
-    <a href="https://www.linkedin.com/in/martin-bernardo-meza/">Perfil de Linkedin</a>
-    <a href="https://github.com/martinBmeza">Perfil de GitHub</a>
+    <p align="center">
+    <a href="pdf/resume.pdf">Curriculum</a> |
+    <a href="https://www.linkedin.com/in/martin-bernardo-meza/">LinkedIn</a> |
+    <a href="https://github.com/martinBmeza">GitHub</a> 
+    </p>
 
-show_downloads: true
+    <p align="justify">
+    Soy un estudiante avanzado de la carrera Ingenieria de Sonido, actualmente finalizando mi trabajo de tesis relacionado a la dereverberación del habla utilizando Deep Learning. 
+    <br><br>
+    Las ramas de estudio que mas me interesan son aquellas relacionadas al procesamiento de señales del habla y el desarrollo de modelos de Machine Learning aplicado al audio.    
+    </p>
+
+show_downloads: false
 google_analytics: G-S0SP1Y5PQB
 theme: jekyll-theme-minimal
