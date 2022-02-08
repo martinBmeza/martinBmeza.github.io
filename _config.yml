@@ -8,11 +8,10 @@ description:
     </p>
 
     <p align="justify">
-    Soy un estudiante avanzado de la carrera Ingenieria de Sonido, actualmente finalizando mi trabajo de tesis relacionado a la dereverberación del habla utilizando Deep Learning. 
+I'm a Sound Engineering advanced student, currently finishing my final thesis work named "Speech Dereverberation using Deep Learning algorithms". Furthermore, I currently have a position as teaching fellow in Signal and Systems subject at Universidad Nacional Tres de Febrero, where I mainly work with audio signal processes and Python programming.
     <br><br>
-    Las ramas de estudio que mas me interesan son aquellas relacionadas al procesamiento de señales del habla y el desarrollo de modelos de Machine Learning aplicado al audio.    
-    </p>
+Im interested in the application of deep learning techniques to audio signal processing and analysis. More precisely, I especially like to work in applications related to speech signals.    </p>
 
 show_downloads: false
-google_analytics: G-S0SP1Y5PQB
+google_analytics: G-M58VBTTBEQ
 theme: jekyll-theme-minimal
