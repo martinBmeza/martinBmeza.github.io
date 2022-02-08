@@ -18,7 +18,7 @@ This research was the final thesis work developed to achieve the Sound Engineer 
 </p>
 
 
-## Analisis and Augmentation of Room Impulse Responses
+## Analysis and Augmentation of Room Impulse Responses
 Room Impulse Response databases are usually expensive and time-consuming to collect. Moreover, if we analyze some acoustics parameters like reverberation time (RT) and direct-to-reverberant ratio (DRR) in the database, in general it is difficult to achieve a good variation of these parameters. In other words, small size datasets bring issues in some applications like training deep learning models. However, some studies have proposed several techniques to perform RIR augmentation, having control over certain acoustic parameters like the ones mentioned above, RT and DRR. Here, these techniques to parametrically control the RT and DRR where implemented generating a useful tool that allows expand a small dataset of RIR into a balanced dataset order of magnitude larger.
 
 ![Aumentacion](/images/tr_aug.png)
